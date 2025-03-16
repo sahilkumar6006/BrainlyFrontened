@@ -1,0 +1,1 @@
+export const BACKENED_URL = "http://192.168.31.111:8000/api/v1/"
